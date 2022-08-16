@@ -2,6 +2,8 @@
 
 #include <windows.h>
 #include <winternl.h>
+#include "CallAPI.h"
+#include "64BitHelper.h"
 #define DLLEXPORT  __declspec(dllexport)
 #define ROTR32(value, shift)	(((DWORD) value >> (BYTE) shift) | ((DWORD) value << (32 - (BYTE) shift)))
 #define HASH_KEY						13

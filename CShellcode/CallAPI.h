@@ -1,8 +1,8 @@
 #pragma once
 #pragma once
 #include <Windows.h>
-#include "标头1.h"
-#include "标头2.h"
+#include "HashOfDllPath.h"
+#include "HashOfFunctionName.h"
 #define IndexKernelMax 22
 #define IndexUser32Max 2
 #define IndexWs2Max 9

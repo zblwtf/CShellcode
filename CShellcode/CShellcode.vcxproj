@@ -141,8 +141,6 @@
   <ItemGroup>
     <ClInclude Include="64BitHelper.h" />
     <ClInclude Include="CallAPI.h" />
-    <ClInclude Include="framework.h" />
-    <ClInclude Include="pch.h" />
     <ClInclude Include="ReflectiveDLLInjection.h" />
     <ClInclude Include="shellcode.h" />
     <ClInclude Include="HashOfFunctionName.h" />

@@ -1,7 +1,6 @@
-#include "shellcode.h"
-#include "CallAPI.h"
-#include "64BitHelper.h"
 #include "ReflectiveDLLInjection.h"
+#include "shellcode.h"
+
 #pragma warning( disable : 4201 )
 typedef struct
 {
