@@ -145,8 +145,8 @@
     <ClInclude Include="pch.h" />
     <ClInclude Include="ReflectiveDLLInjection.h" />
     <ClInclude Include="shellcode.h" />
-    <ClInclude Include="标头1.h" />
-    <ClInclude Include="标头2.h" />
+    <ClInclude Include="HashOfFunctionName.h" />
+    <ClInclude Include="HashOfDllPath.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="dllmain.cpp" />

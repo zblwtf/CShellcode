@@ -30,10 +30,10 @@
     <ClInclude Include="CallAPI.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="标头1.h">
+    <ClInclude Include="HashOfFunctionName.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="标头2.h">
+    <ClInclude Include="HashOfDllPath.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="64BitHelper.h">
